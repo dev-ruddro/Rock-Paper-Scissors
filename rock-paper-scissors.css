@@ -1,34 +1,42 @@
-  h1 {
-      margin-left: 20px;
-      text-align: center;
-      color: rgb(0, 119, 255);
-      margin-bottom: 50px;
-  }
+h1 {
+  margin-left: 20px;
+  text-align: center;
+  color: rgb(0, 119, 255);
+  margin-bottom: 50px;
+}
 
-  button {
-      border: none;
-      padding: 40px;
-      border-radius: 50%;
-      background-color: rgb(54, 36, 188);
-      color: white;
-      font-size: 70px;
-  }
+button {
+  border: none;
+  padding: 30px;
+  border-radius: 50%;
+  background-color: rgb(54, 36, 188);
+  color: white;
+  font-size: 70px;
+}
 
-  body {
-      text-align: center;
-  }
+body {
+  font-family:
+    "Lucida Sans", "Lucida Sans Regular", "Lucida   Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+  text-align: center;
+  border: 2px solid rgb(178, 16, 16);
+  background-color: rgb(240, 239, 238);
+  margin-top: 70px;
+  padding-bottom: 10px;
+}
 
-  #bt {
-      background-color: rgb(6, 180, 238);
-      border-radius: 60px;
-      font-size: 20px;
-      text-align: center;
-      margin-top: 50px;
-  }
-  #btn-auto{
-      background-color: rgb(6, 180, 238);
-      border-radius: 60px;
-      font-size: 20px;
-      text-align: center;
-      margin-top: 50px;
-  }
+#bt {
+  background-color: rgb(6, 180, 238);
+  border-radius: 60px;
+  font-size: 20px;
+  text-align: center;
+  margin-top: 50px;
+}
+
+#btn-auto {
+  background-color: rgb(6, 180, 238);
+  border-radius: 60px;
+  font-size: 20px;
+  text-align: center;
+  margin-top: 50px;
+}
