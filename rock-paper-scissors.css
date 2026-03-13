@@ -9,7 +9,7 @@ button {
   border: none;
   padding: 30px;
   border-radius: 50%;
-  background-color: rgb(54, 36, 188);
+  background-color: rgb(3, 151, 242);
   color: white;
   font-size: 70px;
 }
@@ -19,10 +19,12 @@ body {
     "Lucida Sans", "Lucida Sans Regular", "Lucida   Grande",
     "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
   text-align: center;
-  border: 2px solid rgb(178, 16, 16);
-  background-color: rgb(240, 239, 238);
+  border: 2px solid rgb(237, 34, 34);
+  background-color: rgb(205, 200, 195);
   margin-top: 70px;
-  padding-bottom: 10px;
+  padding-bottom: 20px;
+  margin: 100px 100px 100px 100px;
+  text-overflow: clip;
 }
 
 #bt {
